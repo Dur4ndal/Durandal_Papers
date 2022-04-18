@@ -7,3 +7,5 @@ Don't worry ! I've already hired a friend to write all the contents in a '.txt' 
   
 I'm open for any suggestions, please contact me:  
 mamedioarrelaro@gmail.com
+
+This project is only possible because of my beloved friend, teacher and tutor Marlos Pomin. Thanks buddy.
